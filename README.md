@@ -1,7 +1,7 @@
 sort.h
 ======
 
-<a href="https://travis-ci.org/swenson/sort"><img alt="build status" src="https://api.travis-ci.org/swenson/sort.png" /></a>
+[![Build Status](https://travis-ci.org/Baobaobear/sort-swenson.svg?branch=bao_master)](https://travis-ci.org/Baobaobear/sort-swenson)
 
 Overview
 --------
